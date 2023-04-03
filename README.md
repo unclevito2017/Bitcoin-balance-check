@@ -7,3 +7,4 @@ file containing addresses is corrently called addresses.txt but can be changed i
 sleep is currently set a 1 second between address checks.<p>
 test file with addresses is included for testing<p>
 Linux and windows
+If you like the program and want to help feed lost or homeless cats and dogs my bitcoin address is 3KUrwLXLJKyZmnR5tozarEWUTcYEFeGbny
