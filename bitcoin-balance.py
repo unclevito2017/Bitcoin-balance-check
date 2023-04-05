@@ -56,4 +56,4 @@ for address in addresses:
         print("Error processing address {}: {}".format(address, str(e)))
         
     # Sleep for a second to avoid hitting the API rate limit
-    time.sleep(1)
+    time.sleep(2)
