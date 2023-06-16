@@ -7,4 +7,8 @@ file containing addresses is currently called addresses.txt but can be changed i
 sleep is currently set a 2 seconds between address checks to avoid ip ban.<p>
 test file with addresses is included for testing<p>
 Linux and windows<p>
-If you like the program and want to help feed lost or homeless cats and dogs my bitcoin address is bc1qus09g0n5jwg79gje76zxqmzt3gpw80dcqspsmm but certainly not required
+
+  
+If this program helps find your hidden treasures : donations<br>
+<b>Bitcoin bc1qus09g0n5jwg79gje76zxqmzt3gpw80dcqspsmm  <br>
+Litecoin ltc1q5qtw6fhuqcarv8ysfv7c52gyyfnys3gzlds5s8  </b>
