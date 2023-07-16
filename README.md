@@ -9,6 +9,6 @@ test file with addresses is included for testing<br>
 Linux and windows<br>
 
   
-If this program helps find your hidden treasures : donations<br>
+If this program helps find your hidden treasures : Tips<br>
 <b>Bitcoin bc1qus09g0n5jwg79gje76zxqmzt3gpw80dcqspsmm  <br>
 Litecoin ltc1q5qtw6fhuqcarv8ysfv7c52gyyfnys3gzlds5s8  </b>
